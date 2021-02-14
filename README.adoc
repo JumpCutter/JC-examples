@@ -1,0 +1,37 @@
+= Examples
+:experimental:
+:description: Example videos and scripts
+:toc: left
+ifdef::env-github,safe-mode-secure[]
+:toc:
+:toc-placement!:
+endif::[]
+Shared example to use for JumpCutter testing
+
+ifdef::env-github,safe-mode-secure[]
+toc::[]
+endif::[]
+
+== Use Common Sense
+
+This is a software used professionally by business professionals.
+
+- Be respectful.
+- Don't Steal.
+- Have fun.
+- Don't Spread Hate.
+- Memes are fine as long as they're safe and free.
+- Remember that we have the sole right to change this as we please without forewarning.
+
+
+== Contributing
+
+We want this to include videos, inputs (like jumpcuts), and the expected result.
+
+You can grab the input files in the tmp folder where jc-electron keeps its runtime files.
+
+We will work to make this better and easier very soon.
+
+++++
+<script src="http://localhost:35729/livereload.js"></script>
+++++
