@@ -1,8 +1,17 @@
 {
+    "outFile": "./output2.mp4",
     "frameRate": 30,
+    "resolution": null,
     "layers": [
         [
             {
+                "opType": "jumpcutter",
+                "sourceFile": "./JC-examples/yoga.mp4",
+                "timelineStart": 0,
+                "speed": {
+                    "silent": null,
+                    "sounded": 1
+                },
                 "cuts": [
                     {
                         "end": 2.0575964657620704,
@@ -1608,17 +1617,8 @@
                         "end": 1818.7172801136007,
                         "start": 1818.1315204670245
                     }
-                ],
-                "opType": "jumpcutter",
-                "sourceFile": "/home/decent/repos/rust_render/JC-examples/yoga.mp4",
-                "speed": {
-                    "silent": null,
-                    "sounded": 1
-                },
-                "timelineStart": 0
+                ]
             }
         ]
-    ],
-    "outFile": "./output2.mp4",
-    "resolution": null
+    ]
 }
