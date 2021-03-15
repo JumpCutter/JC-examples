@@ -6,7 +6,7 @@
         [
             {
                 "opType": "jumpcutter",
-                "sourceFile": "../JC-examples/yoga.mp4",
+                "sourceFile": "./JC-examples/yoga.mp4",
                 "timelineStart": 0,
                 "speed": {
                     "silent": null,
